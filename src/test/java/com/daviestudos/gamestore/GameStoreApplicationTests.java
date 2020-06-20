@@ -1,10 +1,10 @@
-package com.daviestudos.JavaSpringClean_ArchGame_Store;
+package com.daviestudos.gamestore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaSpringCleanArchGameStoreApplicationTests {
+class GameStoreApplicationTests {
 
 	@Test
 	void contextLoads() {

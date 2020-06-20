@@ -9,13 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.daviestudos</groupId>
-	<artifactId>Java-Spring-Clean_Arch-Game_Store</artifactId>
+	<artifactId>gamestore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Java-Spring-Clean_Arch-Game_Store</name>
+	<name>gamestore</name>
 	<description>Exercise with Java, Spring Boot e Clean Arch.</description>
 
 	<properties>
 		<java.version>11</java.version>
+		<swagger.version>2.9.2</swagger.version>
 	</properties>
 
 	<dependencies>
@@ -45,6 +46,16 @@
 			<artifactId>lombok</artifactId>
 			<version>1.18.12</version>
 			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>${swagger.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>${swagger.version}</version>
 		</dependency>
 	</dependencies>
 

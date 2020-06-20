@@ -968,7 +968,7 @@
         <children xmi:id="_jP3-CbL8EeqR9cgUmiB9qQ" elementId="org.eclipse.wst.xsd.ui.text.editor.context" name="Editing XSD context"/>
         <children xmi:id="_jP3-DLL8EeqR9cgUmiB9qQ" elementId="org.dadacoalition.yedit.yeditScope" name="YEdit editor context"/>
         <children xmi:id="_jP3-D7L8EeqR9cgUmiB9qQ" elementId="org.eclipse.jdt.ui.propertiesEditorScope" name="Editing Properties Files" description="Editing Properties Files Context"/>
-        <children xmi:id="_jP3-ErL8EeqR9cgUmiB9qQ" elementId="org.eclipse.jst.jsf.facesconfig.editorContext" name="In Faces Config Editor" description="Key binding context when using the Faces Config Editor"/>
+        <children xmi:id="_jP3-ErL8EeqR9cgUmiB9qQ" elementId="org.eclipse.jst.jsf.facesconfig.editorContext" name="In Faces atum Editor" description="Key binding context when using the Faces atum Editor"/>
       </children>
       <children xmi:id="_jP395LL8EeqR9cgUmiB9qQ" elementId="org.eclipse.compare.compareEditorScope" name="Comparing in an Editor" description="Comparing in an Editor"/>
       <children xmi:id="_jP395rL8EeqR9cgUmiB9qQ" elementId="org.eclipse.debug.ui.memoryview" name="In Memory View" description="In memory view"/>
@@ -1705,7 +1705,7 @@
   <commands xmi:id="_jPu0FbL8EeqR9cgUmiB9qQ" elementId="org.eclipse.ui.edit.text.goto.columnNext" commandName="Next Column" description="Go to the next column" category="_jPqih7L8EeqR9cgUmiB9qQ"/>
   <commands xmi:id="_jPu0FrL8EeqR9cgUmiB9qQ" elementId="org.eclipse.egit.ui.history.Squash" commandName="Squash Commits" category="_jPrJprL8EeqR9cgUmiB9qQ"/>
   <commands xmi:id="_jPu0F7L8EeqR9cgUmiB9qQ" elementId="org.eclipse.search.ui.performTextSearchWorkingSet" commandName="Find Text in Working Set" description="Searches the files in the working set for specific text." category="_jPrJmrL8EeqR9cgUmiB9qQ"/>
-  <commands xmi:id="_jPu0GLL8EeqR9cgUmiB9qQ" elementId="org.springframework.ide.eclipse.boot.dash.boot.dash.OpenLaunchConfigAction" commandName="Open Config" description="Open Launch Configuration" category="_jPrJkrL8EeqR9cgUmiB9qQ"/>
+  <commands xmi:id="_jPu0GLL8EeqR9cgUmiB9qQ" elementId="org.springframework.ide.eclipse.boot.dash.boot.dash.OpenLaunchConfigAction" commandName="Open atum" description="Open Launch Configuration" category="_jPrJkrL8EeqR9cgUmiB9qQ"/>
   <commands xmi:id="_jPu0GbL8EeqR9cgUmiB9qQ" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.search.occurrences.in.file.quickMenu" commandName="Show Occurrences in File Quick Menu" description="Shows the Occurrences in File quick menu" category="_jPrJmrL8EeqR9cgUmiB9qQ"/>
   <commands xmi:id="_jPu0GrL8EeqR9cgUmiB9qQ" elementId="org.eclipse.ui.edit.text.goto.wordNext" commandName="Next Word" description="Go to the next word" category="_jPqih7L8EeqR9cgUmiB9qQ"/>
   <commands xmi:id="_jPu0G7L8EeqR9cgUmiB9qQ" elementId="org.eclipse.wst.jsdt.ui.correction.convertLocalToField.assist" commandName="Quick Assist - Convert local variable to var" description="Invokes quick assist and selects 'Convert local variable to var'" category="_jPqiibL8EeqR9cgUmiB9qQ"/>

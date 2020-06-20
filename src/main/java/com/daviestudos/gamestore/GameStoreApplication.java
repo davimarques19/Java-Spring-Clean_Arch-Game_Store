@@ -1,13 +1,13 @@
-package com.daviestudos.JavaSpringClean_ArchGame_Store;
+package com.daviestudos.gamestore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaSpringCleanArchGameStoreApplication {
+public class GameStoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaSpringCleanArchGameStoreApplication.class, args);
+		SpringApplication.run(GameStoreApplication.class, args);
 	}
 
 }
